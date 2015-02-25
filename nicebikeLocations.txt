@@ -1,0 +1,171 @@
+<!DOCTYPE>
+
+<html>
+
+<head>
+    
+    
+</head>
+    
+<body>
+    
+    <script type="text/javascript">
+        
+    var mapid2 = {name: "100 Main Street SE", lat:44.984892, long:-93.256551, nbBikes:0, nbEmptyDocks:27};
+    
+    var mapobjid3 = {name: "25th Street & 33rd Ave S", lat:44.957341, long:-93.223374, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid4 = {name: "Riverside Ave & 23rd Ave S", lat:44.967115, long:-93.240149, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid5 = {name: "Plymouth Ave N & N Oliver Ave", lat:44.991412, long:-93.306269, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid6 = {name: "11th Street & Hennepin", lat:44.97534, long:-93.27869, nbBikes:0, nbEmptyDocks:23};
+    
+    var mapid7 = {name: "Hennepin & Central Avenue NE", lat:44.98889, long:-93.25392, nbBikes:0, nbEmptyDocks:15};
+    
+    var mapid8 = {name: "YWCA Downtown", lat:44.972217, long:-93.276435, nbBikes:0, nbEmptyDocks:23};
+    
+    var mapid9 = {name: "9th Street & 4th Ave", lat:44.97265, long:-93.26872, nbBikes:0, nbEmptyDocks:19};
+    
+    var mapid10 = {name: "Midtown Exchange", lat:44.94859, long:-93.2602, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid11 = {name: "4th Street & 13th Ave SE", lat:44.98102, long:-93.23746, nbBikes:0, nbEmptyDocks:19};
+    
+    var mapid12 = {name: "Hennepin & Laurel Ave", lat:44.97391, long:-93.28305, nbBikes:0, nbEmptyDocks:15};
+    
+    var mapid13 = {name: "North 2nd Street & 4th Ave N", lat:44.986087, long:-93.272459, nbBikes:0, nbEmptyDocks:19};
+    
+    var mapid14 = {name: "Mpls Convention Center", lat:44.970041, long:-93.275861, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid15 = {name: "Lyndale Ave S & W 29th Street", lat:44.949484653766, long:-93.288227319717, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid16 = {name: "22nd Ave S & Franklin Ave", lat:44.96293, long:-93.241042, nbBikes:0, nbEmptyDocks:15};
+    
+    var mapid17 = {name: "Washington & Cedar", lat:44.97344, long:-93.24748, nbBikes:0, nbEmptyDocks:20};
+        
+    var mapid18 = {name: "Walker Art Center", lat:44.96746, long:-93.28848, nbBikes:0, nbEmptyDocks:17};
+        
+    var mapid19 = {name: "Lyndale Ave S & 22nd Street", lat:44.960744, long:-93.28815, nbBikes:0, nbEmptyDocks:19};
+    
+    var mapid20 = {name: "MCAD", lat:44.957214, long:-93.274981, nbBikes:0, nbEmptyDocks:17};
+        
+    var mapid21 = {name: "Social Sciences", lat:44.971359, long:-93.243754, nbBikes:0, nbEmptyDocks:29};
+        
+    var mapid22 = {name: "YWCA Uptown", lat:44.95131, long:-93.29853, nbBikes:0, nbEmptyDocks:19};
+    
+    var mapid23 = {name: "Washington & 2nd Ave N", lat:44.98383, long:-93.27099, nbBikes:0, nbEmptyDocks:19};
+    
+    var mapid24 = {name: "26th Street & Lyndale", lat:44.95548, long:-93.28775, nbBikes:0, nbEmptyDocks:15};
+    
+    var mapid25 = {name: "Chicago & 27th Street", lat:44.95355, long:-93.26259, nbBikes:0, nbEmptyDocks:15};
+    
+    var mapid26 = {name: "Coffman Union", lat:44.973378, long:-93.234762, nbBikes:0, nbEmptyDocks:35};
+        
+    var mapid27 = {name: "Williamson Hall", lat:44.977406, long:-93.234911, nbBikes:0, nbEmptyDocks:25};
+        
+    var mapid28 = {name: "Mayo Memorial Building", lat:44.97209, long:-93.23206, nbBikes:0, nbEmptyDocks:25};
+        
+    var mapid29 = {name: "4th Street S & 19th Ave", lat:44.97003, long:-93.24519, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid30 = {name: "Washington & Marquette", lat:44.98112, long:-93.26634, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid31 = {name: "Hennepin County Government Center", lat:44.976602, long:-93.266701, nbBikes:0, nbEmptyDocks:27};
+        
+    
+    
+    var mapid34 = {name: "Franklin & 11th Ave", lat:44.96251, long:-93.2583, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid35 = {name: "Oak Street Ramp", lat:44.97202, long:-93.22697, nbBikes:0, nbEmptyDocks:23};
+        
+    var mapid36 = {name: "South 2nd Street & 3rd Ave S", lat:44.980926, long:-93.26285, nbBikes:0, nbEmptyDocks:27};
+        
+    var mapid37 = {name: "23rd Ave SE & 6th Street SE", lat:44.977028, long:-93.221639, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid38 = {name: "4th Street & 17th Ave SE", lat:44.97913, long:-93.23189, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid39 = {name: "Loring Park", lat:44.9715, long:-93.284927, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid40 = {name: "Downtown Library", lat:44.980199, long:-93.269217, nbBikes:0, nbEmptyDocks:31};
+        
+    var mapid41 = {name: "Currie Park", lat:44.969225, long:-93.251136, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid42 = {name: "E Franklin Ave & Bloomington Ave S", lat:44.96285, long:-93.252269, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid43 = {name: "10th Street & Nicollet Mall", lat:44.973839, long:-93.274544, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid44 = {name: "11th Street & Marquette", lat:44.97265, long:-93.27405, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid45 = {name: "Franklin & Portland", lat:44.962846, long:-93.267526, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid46 = {name: "IDS Center", lat:44.975641, long:-93.272185, nbBikes:0, nbEmptyDocks:23};
+        
+    var mapid47 = {name: "Lake Street & Humboldt", lat:44.94865, long:-93.30077, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid48 = {name: "26th Street & Hennepin", lat:44.9554734, long:-93.29714298, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid49 = {name: "Franklin & 28th Ave", lat:44.962701, long:-93.230893, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid50 = {name: "University & Bank Street SE", lat:44.98717, long:-93.25576, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid51 = {name: "Dupont Ave & 22nd Street", lat:44.96146, long:-93.29303, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid52 = {name: "3rd Street S & 2nd Ave S", lat:44.97974, long:-93.26599, nbBikes:0, nbEmptyDocks:27};
+        
+    var mapid54 = {name: "Washington Ave S & 10th Ave S", lat:44.97654, long:-93.25535, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid55 = {name: "Nicollet Ave & W 26th Street", lat:44.95618, long:-93.27796, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid56 = {name: "7th Street & 4th Ave. S", lat:44.97497, long:-93.266684, nbBikes:0, nbEmptyDocks:15};
+        
+
+        
+    var mapid58 = {name: "Target Field Station", lat:44.984125390044, long:-93.279038071632, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid59 = {name: "Midtown Greenway & 5th Ave S", lat:44.950371, long:-93.269278, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid60 = {name: "Hennepin Ave. & 4th Street", lat:44.98017, long:-93.27152, nbBikes:0, nbEmptyDocks:23};
+        
+    var mapid61 = {name: "McNamara Center", lat:44.9743, long:-93.22854, nbBikes:0, nbEmptyDocks:18};
+        
+    var mapid62 = {name: "Elliot Hall", lat:44.97685, long:-93.23818, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid63 = {name: "Elliot Park", lat:44.970553, long:-93.26079, nbBikes:0, nbEmptyDocks:14};
+        
+    var mapid64 = {name: "W 31st Street & Hennepin Ave S", lat:44.946687, long:-93.29736, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid65 = {name: "Nicollet & Franklin", lat:44.96342, long:-93.277939, nbBikes:0, nbEmptyDocks:23};
+        
+    var mapid66 = {name: "28th Street & Nicollet Ave. S", lat:44.9519, long:-93.27831, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid67 = {name: "Glenwood Ave & N Morgan Ave.", lat:44.981147, long:-93.304427, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid68 = {name: "Minneapolis Farmers Market", lat:44.98052, long:-93.28542, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid69 = {name: "Washington Ave N & 9th Ave N", lat:44.989879107463, long:-93.279783725739, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid70 = {name: "Wirth Beach", lat:44.9798, long:-93.322066, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid71 = {name: "Bryant Ave. N & West Broadway", lat:44.999341, long:-93.290941, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid72 = {name: "Girard Ave N & W Broadway Ave", lat:44.99957, long:-93.297071, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid73 = {name: "Farview Park", lat:45.005994, long:-93.287559, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid74 = {name: "West Broadway & Logan Ave N", lat:45.002448, long:-93.305857, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid75 = {name: "North Regional Library", lat45.012998 long:-93.296761, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid76 = {name: "Lowry Ave N & Penn Ave", lat:45.013318, long:-93.307798, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid77 = {name: "West 34th Street & Hennepin Ave S", lat:44.941388, long:-93.298634, nbBikes:0, nbEmptyDocks:19};
+        
+    var mapid79 = {name: "27th Ave SE & University Ave.", lat:44.97259, long:-93.218919, nbBikes:0, nbEmptyDocks:15};
+        
+    var mapid80 = {name: "Curfew Street & Ellis Ave.", lat:44.96616, long:-93.20525, nbBikes:0, nbEmptyDocks:14};
+        
+    
+
+    </script>
+</body>
+
+</html>
